@@ -1,6 +1,6 @@
 # 🧠 Transformer from Scratch in PyTorch
 
-This project is a full implementation of the Transformer architecture, as introduced in the [Attention is All You Need](https://arxiv.org/abs/1706.03762) paper, built entirely from scratch using PyTorch — without relying on high-level libraries like Hugging Face Transformers.
+This project is an implementation of the Transformer architecture, as introduced in the [Attention is All You Need](https://arxiv.org/abs/1706.03762) paper, built entirely from scratch using PyTorch — without relying on high-level libraries like Hugging Face Transformers.
 
 ## 🚀 Overview
 
